@@ -1,6 +1,7 @@
 # WeasyPrint - Guia de Instalação no Windows
 
 -VERSÃO 1.0.
+
 -CRIADO POR: [Gustavo Gomes Balbino](https://github.com/GusGBalbino).
 
 ## Requisitos
