@@ -22,6 +22,6 @@ Instale a versão mais recente do Python disponível na Microsoft Store. Certifi
 
 ## Notas Adicionais
 
-A instalação do WeasyPrint no Windows requer alguns passos que podem não ser fáceis de seguir. Recomendamos que você leia cada etapa com atenção e consulte a [documentação oficial](https://doc.courtbouillon.org/weasyprint/stable/index.html) para obter assistência adicional.
+A instalação do WeasyPrint no Windows requer alguns passos que podem não ser fáceis de seguir. Em caso de dúvida, recomendo que você leia cada etapa com atenção e consulte a [documentação oficial](https://doc.courtbouillon.org/weasyprint/stable/index.html) para obter assistência adicional.
 
 Caso encontre algum problema durante a instalação, verifique a seção de perguntas frequentes (FAQ) da documentação ou procure ajuda em fóruns e comunidades relacionadas.
