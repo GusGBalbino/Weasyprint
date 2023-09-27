@@ -15,7 +15,7 @@
 
 Instale a versão mais recente do Python disponível na Microsoft Store. Certifique-se de que a versão instalada é compatível com o seu sistema operacional.
 
-### 2. Instale o GTK3K
+### 2. Instale o GTK3
 
 - Acesse [este link](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) para baixar o instalador do GTK3 mais recente.
 - Execute o instalador. Se você não sabe o que algumas opções significam, é seguro manter as opções padrão selecionadas durante a instalação.
