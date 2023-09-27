@@ -1,4 +1,4 @@
-# WeasyPrint - Guia de Instalação no Windows
+# Geração de PDFs com Weasyprint
 
 - VERSÃO 1.0.
 
@@ -19,6 +19,10 @@ Instale a versão mais recente do Python disponível na Microsoft Store. Certifi
 
 - Acesse [este link](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) para baixar o instalador do GTK3 mais recente.
 - Execute o instalador. Se você não sabe o que algumas opções significam, é seguro manter as opções padrão selecionadas durante a instalação.
+
+### 3. Baixe as libs necessárias
+
+- pip install weasyprint matplotlib seaborn jinja2 base64
 
 ## Notas Adicionais
 
