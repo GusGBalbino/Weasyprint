@@ -30,7 +30,7 @@ def codificar_imagem(grafico):
         return base64.b64encode(image_file.read()).decode()
 
 def renderizar_html(string_codificada, dados):
-    template_html = """[... omitido por simplicidade ...]"""
+    template_html = """IMPLEMENTAR HTML"""
     template = Template(template_html)
     return template.render(string_codificada=string_codificada, dados=dados)
 
