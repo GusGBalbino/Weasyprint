@@ -102,7 +102,7 @@ def gerar_pdf(html_renderizado, caminho_pdf):
     #Gera o PDF a partir do HTML renderizado.
     HTML(string=html_renderizado).write_pdf(caminho_pdf)
 
-def main():
+def gerar_relatorio_pdf():
     
     meses = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
              'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
@@ -121,4 +121,4 @@ def main():
     gerar_pdf(html_renderizado, caminho_pdf) #Gera um PDF baseado no HTML renderizado.
 
 if __name__ == '__main__':
-    main()
+    gerar_relatorio_pdf()
